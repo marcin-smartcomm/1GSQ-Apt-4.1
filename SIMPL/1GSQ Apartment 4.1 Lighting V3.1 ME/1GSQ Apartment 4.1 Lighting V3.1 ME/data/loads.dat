@@ -1,0 +1,111 @@
+File Version	v3.05.00
+Modified Date	10/21/2022
+Modified Time	15:39:00
+
+LoadID	LoadName	RoomID	DIM_setting	Ramp_time	Upper_limit	Lower_limit	TotalWattage
+213	Downlights	21	True	500	100	1	100
+214	Mirror	21	True	500	100	1	100
+215	Downlights	5	True	500	100	1	100
+216	Cabinets	5	True	500	100	1	100
+217	Pelmet	5	True	500	100	1	100
+218	LED Strip 3	5	True	500	100	1	100
+219	Downlights	22	True	500	100	1	100
+229	Mirror	18	True	500	100	1	100
+231	Ceiling Light	1	True	500	100	1	100
+233	5 Amp	1	True	500	100	1	100
+234	5 Amp	4	True	500	100	1	50
+235	Sconces	1	True	500	100	1	50
+236	Ceiling Light	6	True	500	100	1	100
+237	Ceiling Light 2	6	True	500	100	1	100
+238	5 Amp	6	True	500	100	1	100
+239	Ceiling Light	22	True	500	100	1	100
+240	5 Amp	22	True	500	100	1	100
+241	Ceiling Light	5	True	500	100	1	100
+242	Ceiling Light	10	True	500	100	1	100
+243	5 Amp RHS of Bed	10	True	500	100	1	100
+244	5 Amp LHS of Bed	10	True	500	100	1	100
+245	5 Amp	10	True	500	100	1	100
+246	Sconces	12	True	500	100	1	50
+247	Sconces	2	True	500	100	1	50
+249	5 Amp 3	16	True	500	100	1	100
+250	5 Amp RHS of Bed	16	True	500	100	1	100
+251	5 Amp LHS of Bed	16	True	500	100	1	100
+252	5 Amp LHS of Bed	19	True	500	100	1	100
+253	5 Amp RHS of Bed	19	True	500	100	1	100
+254	5 Amp 3	19	True	500	100	1	100
+259	Curtain	6	False	500	100	1	200
+260	Curtain 2	6	False	500	100	1	200
+261	Window 1	6	False	500	100	1	200
+262	Window 2	6	False	500	100	1	200
+263	Window 3	6	False	500	100	1	200
+264	Curtain 6	6	False	500	100	1	200
+265	Window 1	10	False	500	100	1	200
+266	Curtain 2	10	False	500	100	1	200
+270	Curtain	16	False	500	100	1	200
+271	Curtain 2	16	False	500	100	1	200
+272	Curtain	19	False	500	100	1	200
+273	Curtain 2	19	False	500	100	1	200
+67	5 Amp RHS of Bed	9	True	500	100	1	100
+68	5 Amp LHS of Bed	9	True	500	100	1	100
+69	5 Amp	9	True	500	100	1	100
+100	Curtain 2	9	False	500	100	1	200
+103	Curtain	9	False	500	100	1	200
+169	Coffer	1	True	500	100	1	100
+170	Downlights	14	True	500	100	1	100
+171	Downlights	3	True	500	100	1	100
+172	Downlights	15	True	500	100	1	100
+173	Downlights	2	True	500	100	1	100
+174	Mirror	2	True	500	100	1	100
+175	Under Sink	2	True	500	100	1	100
+176	Downlights	9	True	500	100	1	100
+177	Downlights Centre	7	True	500	100	1	100
+178	Downlights	7	True	500	100	1	100
+179	Coffer	7	True	500	100	1	100
+180	Mirror	7	True	500	100	1	100
+181	Downlights	8	True	500	100	1	100
+183	Coffer	18	True	500	100	1	100
+184	Downlights Centre	18	True	500	100	1	100
+185	Downlights	18	True	500	100	1	100
+186	DLs Front	6	True	500	100	1	100
+187	DLs Right	6	True	500	100	1	100
+188	DLs Rear	6	True	500	100	1	100
+189	DLs Left	6	True	500	100	1	100
+190	Shelf Rear	6	True	500	100	1	100
+191	Shelf Front	6	True	500	100	1	100
+192	Downlights	10	True	500	100	1	100
+193	Downlights Large	11	True	500	100	1	100
+194	Downlights Small	11	True	500	100	1	100
+195	Coffer Bath	12	True	500	100	1	100
+196	Downlights	12	True	500	100	1	100
+197	Coffer Shower	12	True	500	100	1	100
+198	Niche	12	True	500	100	1	100
+199	Coffer WC	12	True	500	100	1	100
+200	Mirror	12	True	500	100	1	100
+201	Under Sink	12	True	500	100	1	100
+202	Coffer	4	True	500	100	1	100
+203	Downlights	4	True	500	100	1	100
+204	Coffer 2	4	True	500	100	1	100
+205	Downlights 2	4	True	500	100	1	100
+206	Downlights	16	True	500	100	1	100
+207	Downlights Large	17	True	500	100	1	100
+208	Downlights Small	17	True	500	100	1	100
+209	Downlights	19	True	500	100	1	100
+210	Downlight Large	20	True	500	100	1	100
+211	Downlights Small	20	True	500	100	1	100
+212	Coffer	21	True	500	100	1	100
+282	Downlights Centre	21	True	500	100	1	100
+283	Wall Lights	1	True	500	100	1	50
+284	Picture Lights	1	True	500	100	1	50
+285	Wall Lights	4	True	500	100	1	50
+286	Picture Lights	4	True	500	100	1	50
+287	Wall Lights	6	True	500	100	1	50
+288	Chandalier	6	True	500	100	1	50
+289	Wall Lights	22	True	500	100	1	50
+290	Picture Lights	22	True	500	100	1	50
+291	Chandalier	22	True	500	100	1	50
+292	Pendant	10	True	500	100	1	50
+293	Wall Lights	10	True	500	100	1	50
+294	Pendant	19	True	500	100	1	50
+295	Bed2ExtraLight	9	True	500	100	1	100
+296	Bed3ExtraLight	16	True	500	100	1	50
+
